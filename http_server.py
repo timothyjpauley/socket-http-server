@@ -2,6 +2,13 @@ import socket
 import sys
 import traceback
 
+#Tim Pauley
+#Python 230a, Assignment 03
+#Date: April 20 2019 
+
+
+#Will come to class with additional questions. Read through guide and did exercises
+
 def response_ok(body=b"This is a minimal response", mimetype=b"text/plain"):
     """
     returns a basic HTTP response

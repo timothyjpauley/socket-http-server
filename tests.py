@@ -3,6 +3,13 @@ import subprocess
 import http.client
 import os
 
+#Tim Pauley
+#Python 230a, Assignment 03 
+#Date: April 20 2019
+
+
+#Will come to class with additional questions. Read through guide and did exercises
+
 
 class WebTestCase(unittest.TestCase):
     """tests for the echo server and client"""
